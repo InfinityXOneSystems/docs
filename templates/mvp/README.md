@@ -5,7 +5,7 @@ Minimum Viable Product templates for rapid prototyping and proof of concept docu
 ## Purpose
 
 MVP templates provide:
-- Lean documentation for quick starts
+- Lean documentation for quick start
 - Essential information only
 - Fast iteration support
 - Proof of concept documentation

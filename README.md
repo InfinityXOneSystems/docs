@@ -1,6 +1,6 @@
 # InfinityXOne Documentation Library
 
-A comprehensive document template library designed to support software development and various industries. This repository is directly connected to the [/foundation](../foundation) repository.
+A comprehensive document template library designed to support software development and various industries. This repository is designed to be directly connected to the [foundation repository](https://github.com/InfinityXOneSystems/foundation).
 
 ## Overview
 

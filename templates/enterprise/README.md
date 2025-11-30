@@ -21,4 +21,4 @@ Enterprise templates provide:
 2. Include all compliance requirements
 3. Document approval workflows
 4. Maintain complete audit trails
-5. Review with legal/compliance teams before deployment
+5. Review with legal/compliance teams or designated stakeholders before deployment
