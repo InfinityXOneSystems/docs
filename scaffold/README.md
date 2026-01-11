@@ -84,7 +84,7 @@ See [api-complete-reference-01.md](./api-reference/api-complete-reference-01.md)
 
 ### Basic Workflow
 
-```(Language)
+```javascript
 // Pattern: Basic resource creation with error handling
 
 const client = new (SystemName)Client({
@@ -157,7 +157,7 @@ See [guide-multi-tenancy-01.md](./guides/guide-multi-tenancy-01.md)
 
 ## Architecture Overview
 
-```
+```bash
 ┌─────────────────────────────────────────┐
 │         (System Name) Architecture      │
 ├─────────────────────────────────────────┤
@@ -205,9 +205,8 @@ See [guide-rate-limiting-01.md](./guides/guide-rate-limiting-01.md)
 
 ### Unit Testing
 
-```(Language)
+```javascript
 // Example: Testing a resource creation
-
 describe('Resource Creation', () => {
   it('creates a new resource', async () => {
     const client = new (SystemName)Client();

@@ -57,7 +57,7 @@ Alignment with:
 
 #### Headings
 
-```markdown
+```markdownmarkdown
 # H1: Page Title (Only One Per Document)
 
 ## H2: Major Sections
@@ -65,7 +65,7 @@ Alignment with:
 ### H3: Subsections
 
 #### H4: Sub-subsections
-```
+```markdown
 
 **Rules**:
 
@@ -76,15 +76,15 @@ Alignment with:
 
 #### Emphasis
 
-```markdown
+```markdownmarkdown
 **Bold** - For emphasis and key terms
 _Italic_ - For variables, file names, and concepts
 `Code` - For code snippets, commands, and technical terms
-```
+```markdown
 
 #### Lists
 
-```markdown
+```markdownmarkdown
 Unordered lists for groups of items:
 
 - Item 1
@@ -102,7 +102,7 @@ Task lists for checklists:
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
-```
+```markdown
 
 ### Writing Voice
 
@@ -146,14 +146,14 @@ Task lists for checklists:
 
 #### Format
 
-```markdown
+```markdownmarkdown
 \`\`\`(language)
 // Language-specific comments
 // Explaining the code
 
 const example = "code";
 \`\`\`
-```
+```markdown
 
 #### Supported Languages
 
@@ -169,12 +169,12 @@ const example = "code";
 
 ### Tables
 
-```markdown
+```markdownmarkdown
 | Header 1 | Header 2 | Header 3 |
 | -------- | -------- | -------- |
 | Row 1    | Data     | Value    |
 | Row 2    | Data     | Value    |
-```
+```markdown
 
 **Rules**:
 
@@ -189,7 +189,7 @@ const example = "code";
 
 ### All Documents
 
-```markdown
+```markdownmarkdown
 # Document Title
 
 **Metadata** (status, audience, time, difficulty)
@@ -215,11 +215,11 @@ Where to go after this document
 ## Related Topics
 
 Links to related documentation
-```
+```markdown
 
 ### Overview Documents
 
-```
+```markdown
 # Concept Name
 
 ## Overview
@@ -227,11 +227,11 @@ Links to related documentation
 ## When to Use
 ## Example
 ## Related Topics
-```
+```markdown
 
 ### Guide Documents
 
-```
+```markdown
 # How to (Action)
 
 ## Overview
@@ -240,11 +240,11 @@ Links to related documentation
 ## Verification
 ## Troubleshooting
 ## Next Steps
-```
+```markdown
 
 ### API Documents
 
-```
+```markdown
 # Endpoint Name
 
 ## Overview
@@ -254,11 +254,11 @@ Links to related documentation
 ## Rate Limiting
 ## Best Practices
 ## Related Endpoints
-```
+```markdown
 
 ### Example Documents
 
-```
+```markdown
 # Example: (Scenario)
 
 ## Overview
@@ -266,7 +266,7 @@ Links to related documentation
 ## Explanation
 ## Running the Example
 ## Modifying for Your Use Case
-```
+```markdown
 
 ---
 
@@ -276,9 +276,9 @@ All variable content uses this format:
 
 ### Placeholder Syntax
 
-```
+```markdown
 (Placeholder Type)
-```
+```markdown
 
 ### Standard Placeholders
 
@@ -303,7 +303,7 @@ All variable content uses this format:
 
 ### Usage Examples
 
-```markdown
+```markdownmarkdown
 # Welcome to (System Name)
 
 (System Name) is a platform for (Industry) professionals at (Organization Name).
@@ -319,7 +319,7 @@ Configuration:
 - API Key: Enter your (API Key) from your (Organization Name) dashboard
 - Region: Set to (Region) for optimal performance
 - Environment: Currently set to (Environment)
-```
+```markdown
 
 ### Before Publication
 
@@ -334,32 +334,32 @@ Configuration:
 
 ### Internal Links
 
-```markdown
+```markdownmarkdown
 [Link text](./relative/path/to/file.md)
 [Link text](./relative/path/to/file.md#heading)
-```
+```markdown
 
 ### External Links
 
+```markdownmarkdown
+
 ```markdown
-[Link text](https://external-domain.com/path)
-```
 
 ### Section References
 
 Capitalize section names in links:
 
-```markdown
+```markdownmarkdown
 [Getting Started](#getting-started)
 [Best Practices](#best-practices)
-```
+```markdown
 
 ### Tier Cross-References
 
-```markdown
+```markdownmarkdown
 [See Production Tier](../production/README.md)
 [View Advanced Guide](../scaffold/guides/guide-advanced-01.md)
-```
+```markdown
 
 ---
 
@@ -369,38 +369,38 @@ Capitalize section names in links:
 
 #### Note
 
-```markdown
+```markdownmarkdown
 > **Note**: This is important context
-```
+```markdown
 
 #### Warning
 
-```markdown
+```markdownmarkdown
 > **⚠️ Warning**: This could cause problems if done incorrectly
-```
+```markdown
 
 #### Tip
 
-```markdown
+```markdownmarkdown
 > **💡 Tip**: This will make your life easier
-```
+```markdown
 
 #### Example
 
-```markdown
+```markdownmarkdown
 > **📝 Example**: Here's a practical demonstration
-```
+```markdown
 
 ### Diagrams
 
 Use ASCII diagrams or reference external diagram tools:
 
-```markdown
+```markdownmarkdown
 \`\`\`
 ┌──────────────┐
 │ System │
 └──────────────┘
-```
+```markdown
 
 For complex diagrams, reference Lucidchart, Draw.io, or ASCII art.
 
@@ -563,7 +563,7 @@ Before submitting documentation:
 
 ### Naming Convention
 
-```
+```markdown
 [section]-[topic]-[number].md
 
 Examples:
@@ -573,11 +573,11 @@ Examples:
 - example-basic-workflow-01.md
 - best-practices-performance-01.md
 - ops-monitoring-setup-01.md
-```
+```markdown
 
 ### Directory Structure
 
-```
+```markdown
 tier/
 ├── README.md
 ├── overview/
@@ -592,7 +592,7 @@ tier/
 │   └── best-practices-*.md
 └── operations/ (Production+)
     └── ops-*.md
-```
+```markdown
 
 ---
 
@@ -653,7 +653,7 @@ A: Always, as it's a proper noun/product name
 
 Use this when starting a new document:
 
-```markdown
+```markdownmarkdown
 # Document Title
 
 **Tier**: MVP | Scaffold | Production | Enterprise
@@ -684,7 +684,7 @@ Use this when starting a new document:
 
 - [Related 1](link)
 - [Related 2](link)
-```
+```markdown
 
 ---
 

@@ -172,19 +172,16 @@ Every tier includes:
 **Total Time**: ~80 minutes
 
 1. **MVP - Overview** (10 min)
-
    - What is (System Name)?
    - Core concepts
    - Key benefits
 
 2. **MVP - Guides** (30 min)
-
    - Getting started
    - First task
    - Common operations
 
 3. **MVP - Examples** (20 min)
-
    - Basic workflow
    - Code samples
    - Copy-paste patterns
@@ -199,19 +196,16 @@ Every tier includes:
 **Total Time**: ~110 minutes
 
 1. **Scaffold - Overview** (20 min)
-
    - Architecture details
    - Advanced concepts
    - Integration patterns
 
 2. **Scaffold - API Reference** (30 min)
-
    - Complete API spec
    - All endpoints
    - Advanced features
 
 3. **Scaffold - Guides** (40 min)
-
    - Implementation guides
    - Integration patterns
    - Performance optimization
@@ -226,19 +220,16 @@ Every tier includes:
 **Total Time**: ~120 minutes
 
 1. **Production - Complete Overview** (30 min)
-
    - Deployment architecture
    - Operational model
    - Scaling strategies
 
 2. **Production - Operations** (40 min)
-
    - Monitoring setup
    - Incident response
    - Disaster recovery
 
 3. **Production - Best Practices** (30 min)
-
    - Deep performance tuning
    - Security hardening
    - Cost optimization

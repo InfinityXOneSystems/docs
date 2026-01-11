@@ -35,7 +35,7 @@ A comprehensive, industry-standard documentation framework has been created for 
 
 ### Directory Structure (24 Total Directories)
 
-```
+```bash
 docs/system-tiers/
 ├── INDEX.md                          # Central navigation hub
 ├── README.md                         # Master entry point
@@ -286,7 +286,7 @@ docs/system-tiers/
 
 ### Complete List of Parameterized Variables
 
-```markdown
+```
 (System Name) - Name of platform/system
 (Industry) - Industry context (Finance, Healthcare, etc.)
 (Job Title) - Target job role (Engineer, DevOps, etc.)
@@ -323,7 +323,7 @@ docs/system-tiers/
 
 ### Usage Examples
 
-```markdown
+```
 # Welcome to (System Name)
 
 Learn how to use (System Name) in the (Industry) industry.

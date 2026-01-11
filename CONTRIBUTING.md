@@ -67,11 +67,20 @@ Great working code? Share it:
 
 ### Choose Your Template
 
-1. **Overview** → [template-overview-concepts.md](./TEMPLATES.md)
-2. **Guide** → [template-guide-howto.md](./TEMPLATES.md)
-3. **API Doc** → [template-api-endpoint.md](./TEMPLATES.md)
-4. **Example** → [template-example-basic.md](./TEMPLATES.md)
-5. **Best Practices** → [template-best-practices.md](./TEMPLATES.md)
+1. **Overview** →
+   [template-overview-concepts.md](./TEMPLATES.md)
+
+2. **Guide** →
+   [template-guide-howto.md](./TEMPLATES.md)
+
+3. **API Doc** →
+   [template-api-endpoint.md](./TEMPLATES.md)
+
+4. **Example** →
+   [template-example-basic.md](./TEMPLATES.md)
+
+5. **Best Practices** →
+   [template-best-practices.md](./TEMPLATES.md)
 
 ### Complete the Template
 
@@ -246,7 +255,9 @@ Once approved, we'll:
 ```
 # Endpoint Name
 - Overview
-- Request (method, URL, headers, parameters, body)
+- Request (method, URL, headers, parameters,
+  body)
+
 - Response (success, errors, examples)
 - Rate Limiting
 - Best Practices
@@ -340,7 +351,8 @@ If contributing translations:
 
 ### We Recognize Contributors
 
-Your contributions help thousands of users. We thank you by:
+Your contributions help thousands of users. We thank you
+by:
 
 - Adding name to CONTRIBUTORS.md
 - Mentioning in release notes
@@ -397,6 +409,7 @@ Your contributions help thousands of users. We thank you by:
 
 - [Google Style Guide](https://developers.google.com/style)
 - [Microsoft Writing Style](https://docs.microsoft.com/style-guide/)
+
 - [Technical Writing Course](https://developers.google.com/tech-writing)
 
 ---
@@ -412,7 +425,8 @@ Your contributions help thousands of users. We thank you by:
 | Approval       | 2-3 days | Lead      |
 | Publication    | 1-2 days | Docs Team |
 
-**Total**: ~2-3 weeks from submission to publication
+**Total**: ~2-3 weeks from submission to
+publication
 
 ---
 
@@ -452,7 +466,8 @@ For complex concepts:
 
 ## ✨ Thank You!
 
-Your contributions make (System Name) documentation better for everyone.
+Your contributions make (System Name) documentation better
+for everyone.
 
 ---
 
@@ -467,6 +482,7 @@ By contributing, you agree your content:
 
 ---
 
-© **(Year)** - **(Organization Name)**. All rights reserved.
+© **(Year)** - **(Organization Name)**. All rights
+reserved.
 
 **Questions?** Contact: docs@(organization).com

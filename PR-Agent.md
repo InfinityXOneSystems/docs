@@ -1,9 +1,9 @@
-PR Agent (skeleton)
-====================
+# PR Agent (skeleton)
 
 This folder contains a minimal webhook receiver and worker skeleton for the PR automation agent.
 
 Files:
+
 - `pr_agent/webhook.py`: FastAPI receiver for GitHub webhooks
 - `pr_agent/worker.py`: simple worker loop placeholder
 - `pr_agent/policy.py`: minimal policy checks
